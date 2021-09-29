@@ -1,4 +1,6 @@
-This is the legendary beginning of my first project that shows off my skills in HTML.
-Though it is just HTML, going further I would be adding CSS to this project for beautification.
-Likewise, Javascript for behaviour of the icons in the website.
+This is the first project- Recipes which is created using HTML skills.
+I have used anchor tags to show various pages that link to different recipes.
+In the pages, I have usd images and linked them to be shown on the web page.
+Also, utilised unordered and ordered lists to list out things.
+
 
